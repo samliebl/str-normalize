@@ -1,0 +1,12 @@
+{
+  "name": "str-normalize",
+  "version": "1.0.0",
+  "description": "Using regular expressions along with some common string methods to clean up text strings for things.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Liebl",
+  "license": "MIT"
+}
